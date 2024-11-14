@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\services\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\services\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\settings\\imongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\settings\\imongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\services\\itaskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\services\\itaskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\tasksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\tasksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|c:\\users\\robert\\desktop\\facultate\\sem2\\brta\\tasksapi\\tasksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19884087-7744-4513-9125-53D8BEDD01EB}|TasksAPI\\TasksAPI.csproj|solutionrelative:tasksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationsHub.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\NotificationsHub.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Services\\NotificationsHub.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\NotificationsHub.cs",
+              "RelativeToolTip": "TasksAPI\\Services\\NotificationsHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:25:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "TasksAPI\\Settings\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:41:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "RelativeToolTip": "TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:40:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TasksAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\appsettings.Development.json",
+              "RelativeToolTip": "TasksAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T07:39:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TasksAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TasksAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T07:13:04.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskCollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\TaskCollectionService.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Services\\TaskCollectionService.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\TaskCollectionService.cs",
+              "RelativeToolTip": "TasksAPI\\Services\\TaskCollectionService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:24:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Program.cs",
+              "RelativeToolTip": "TasksAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:12:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TasksAPI.http",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\TasksAPI.http",
+              "RelativeDocumentMoniker": "TasksAPI\\TasksAPI.http",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\TasksAPI.http",
+              "RelativeToolTip": "TasksAPI\\TasksAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-09T07:27:31.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "TasksAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:57:51.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITaskCollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\ITaskCollectionService.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Services\\ITaskCollectionService.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\ITaskCollectionService.cs",
+              "RelativeToolTip": "TasksAPI\\Services\\ITaskCollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:20:33.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\ICollectionService.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Services\\ICollectionService.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Services\\ICollectionService.cs",
+              "RelativeToolTip": "TasksAPI\\Services\\ICollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:19:03.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TasksAPI\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:01:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\ExercisesController.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\ExercisesController.cs",
+              "RelativeToolTip": "TasksAPI\\ExercisesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:25:54.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TasksAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:15:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\TaskController.cs",
+              "RelativeDocumentMoniker": "TasksAPI\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\TaskController.cs",
+              "RelativeToolTip": "TasksAPI\\TaskController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:14:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TasksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Robert\\Desktop\\Facultate\\Sem2\\BRTA\\TasksAPI\\TasksAPI\\appsettings.json",
+              "RelativeToolTip": "TasksAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T07:12:28.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
